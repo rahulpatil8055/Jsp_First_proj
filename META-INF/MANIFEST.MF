@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jspfirst
+Bundle-SymbolicName: Jspfirst
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: Jspfirst.jar,
+ abhishek/eclipse-workspace1/apache/apache-tomcat-10.1.15,
+ apache-tomcat-10.1.12/lib/servlet-api.jar,
+ abhishek/Downloads/javax.servlet-api-4.0.1.jar
+Automatic-Module-Name: Jspfirst
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: com.register.dao
